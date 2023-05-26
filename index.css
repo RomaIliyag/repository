@@ -1,0 +1,526 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 2420px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2420px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2420px;
+	background:rgba(27.87,16.49,52.06,1);
+}
+
+
+#rectangle_4 {
+	opacity:0.28999999165535;
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 200px;
+	background:rgba(174.2,155.15,228.44,0.29);
+}
+
+#hero_section {
+	top: 234.64px;
+	left: 250.64px;
+	width: 1659.36px;
+	height: 672.36px;
+}
+
+#ginneko_single_handedly_collected_these_sticker_packs_through_texting_with_friends_and_searching_on_google__feel_free_to_use_them_ {
+	top: 440px;
+	left: 0px;
+	width: 618.26px;
+	height: 108.99px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 31.199998855591px;
+	color:#FFFFFF;
+}
+
+
+#download_the_best_sticker_packs_for_free_ {
+	top: 0px;
+	left: 0px;
+	width: 804.91px;
+	height: 581.94px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 102.99999713898px;
+	color:#FFFFFF;
+}
+
+
+#seekpng_1 {
+	top: 76px;
+	left: 606px;
+	width: 1053px;
+	height: 596px;
+}
+
+#download_page_button {
+	top: 551px;
+	left: 0px;
+	width: 281.68px;
+	height: 89.32px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 281.68px;
+	height: 89.32px;
+	-ms-border-radius: 71px;
+	-o-border-radius: 71px;
+	-moz-border-radius: 71px;
+	-webkit-border-radius: 71px;
+	border-radius: 71px;
+	background:rgba(141,141,218,1);
+}
+
+
+#download_page {
+	top: 32px;
+	left: 44px;
+	width: 217px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	letter-spacing: 1.4px;
+	color:#FFFFFF;
+}
+
+#download_page_button_ek1 {
+	top: 551px;
+	left: 298px;
+	width: 281.68px;
+	height: 89.32px;
+}
+
+#rectangle_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 283.68px;
+	height: 91.32px;
+	-ms-border-radius: 71px;
+	-o-border-radius: 71px;
+	-moz-border-radius: 71px;
+	-webkit-border-radius: 71px;
+	border-radius: 71px;
+	border: 1px solid #abd9d9;
+	background:rgba(255,255,255,0);
+}
+
+
+#support_us_ {
+	top: 32px;
+	left: 72px;
+	width: 97.5px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 25.999999046326px;
+	letter-spacing: 1.4px;
+	color:#FFFFFF;
+}
+
+#navbar {
+	top: 85px;
+	left: 250.64px;
+	width: 1411.82px;
+	height: 42.32px;
+}
+
+#telegram_stickers {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 41.599998474121px;
+	color:#FFFFFF;
+}
+
+
+#about {
+	top: 0px;
+	left: 840px;
+	width: 101.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#artists {
+	top: 0px;
+	left: 960px;
+	width: 105.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#download_stickers {
+	top: 0px;
+	left: 1200px;
+	width: 242.97px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#contact {
+	top: 0px;
+	left: 1080px;
+	width: 121.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_2 {
+	opacity:0.41999998688698;
+	top: 1000px;
+	left: 251px;
+	width: 1424px;
+	height: 131px;
+	-ms-border-radius: 26px;
+	-o-border-radius: 26px;
+	-moz-border-radius: 26px;
+	-webkit-border-radius: 26px;
+	border-radius: 26px;
+	background:rgba(123.45,104.95,160.44,0.42);
+}
+
+
+#recent_news_ {
+	top: 929px;
+	left: 251px;
+	width: 484px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	letter-spacing: 1.4px;
+	color:#FFFFFF;
+}
+
+
+#this_website_is_a_work_in_progress__contact_us_for_any_suggestions_ {
+	top: 1050px;
+	left: 465px;
+	width: 1022px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	letter-spacing: 1.4px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_3 {
+	top: 1271px;
+	left: 973px;
+	width: 700px;
+	height: 596px;
+	-ms-border-radius: 37px;
+	-o-border-radius: 37px;
+	-moz-border-radius: 37px;
+	-webkit-border-radius: 37px;
+	border-radius: 37px;
+	background:rgba(123,105,160,1);
+}
+
+
+#i_have_no_idea_why_you_scrolled_down_here__but_if_you_want_some_nice_stickers_to_send_to_your_friends__you_should_totally_slap_the__download_page__button_above_ {
+	top: 1287px;
+	left: 1017px;
+	width: 659px;
+	height: 534px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 52px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 54px;
+	letter-spacing: 3.64px;
+	color:#FFFFFF;
+}
+
+
+#telegram_stickers_ek1 {
+	top: 2135px;
+	left: 251px;
+	width: 246px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 2143px;
+	left: 490px;
+	width: 127px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#more_websites {
+	top: 2143px;
+	left: 729px;
+	width: 211px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#contact_ek1 {
+	top: 2142px;
+	left: 970px;
+	width: 127px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#home_page_about_download_stickers_upload_stickers {
+	top: 2223px;
+	left: 490px;
+	width: 267px;
+	height: 342px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#combot_tlgrm_telegramhub_telegramchannels {
+	top: 2223px;
+	left: 730px;
+	width: 267px;
+	height: 342px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#email_github_instagram_osu_profile {
+	top: 2234px;
+	left: 970px;
+	width: 134px;
+	height: 149px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#join_the_newsletter_that_we_probably_won_t_work_on_lol {
+	top: 2135px;
+	left: 1210px;
+	width: 401px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_5 {
+	top: 2252px;
+	left: 1210px;
+	width: 461px;
+	height: 78px;
+	-ms-border-radius: 68px;
+	-o-border-radius: 68px;
+	-moz-border-radius: 68px;
+	-webkit-border-radius: 68px;
+	border-radius: 68px;
+	background:rgba(61.59,60.44,117.94,1);
+}
+
+
+#email_address {
+	top: 2276px;
+	left: 1222px;
+	width: 198px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6 {
+	top: 2253px;
+	left: 1451px;
+	width: 220px;
+	height: 77px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	background:rgba(152.46,150.24,214.62,1);
+}
+
+
+#submit {
+	top: 2276px;
+	left: 1518px;
+	width: 110px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#000000;
+}
+
+
+#anime_boy_png_image_file_1 {
+	top: 1213px;
+	left: 252px;
+	width: 698px;
+	height: 700px;
+}
+
+
+#ellipse_3 {
+	opacity:0.74000000953674;
+	top: 1170px;
+	left: -431px;
+	width: 707px;
+	height: 738px;
+	-ms-border-radius: 353.5px / 369px;
+	-o-border-radius: 353.5px / 369px;
+	-moz-border-radius: 353.5px / 369px;
+	-webkit-border-radius: 353.5px / 369px;
+	border-radius: 353.5px / 369px;
+	background:rgba(29.36,28.05,93.5,0.74);
+}
+
+
+#ellipse_1 {
+	opacity:0.74000000953674;
+	top: 668px;
+	left: 1723px;
+	width: 634px;
+	height: 662px;
+	-ms-border-radius: 317px / 331px;
+	-o-border-radius: 317px / 331px;
+	-moz-border-radius: 317px / 331px;
+	-webkit-border-radius: 317px / 331px;
+	border-radius: 317px / 331px;
+	background:rgba(171,217,217,0.74);
+}
+
+
+
+/* Add your custom CSS here */

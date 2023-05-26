@@ -1,0 +1,636 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 2389px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2889px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2889px;
+	background:rgba(28,16,52,1);
+}
+
+
+#rectangle_1 {
+	top: 260px;
+	left: 276px;
+	width: 211.74px;
+	height: 101.11px;
+}
+
+
+#anime {
+	top: 293px;
+	left: 339px;
+	width: 108.5px;
+	height: 52.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_1_ek1 {
+	top: 260px;
+	left: 506.99px;
+	width: 211.74px;
+	height: 101.11px;
+}
+
+
+#memes {
+	top: 294px;
+	left: 558px;
+	width: 129.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_1_ek2 {
+	top: 260px;
+	left: 737.99px;
+	width: 211.74px;
+	height: 101.11px;
+}
+
+
+#animals {
+	top: 293px;
+	left: 793px;
+	width: 133.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_1_ek3 {
+	top: 260px;
+	left: 968.98px;
+	width: 211.74px;
+	height: 101.11px;
+}
+
+
+#video_games {
+	top: 295px;
+	left: 991px;
+	width: 199.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_1_ek4 {
+	top: 260px;
+	left: 1199.98px;
+	width: 211.74px;
+	height: 101.11px;
+}
+
+
+#christmas {
+	top: 293px;
+	left: 1249px;
+	width: 162.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_1_ek5 {
+	top: 260px;
+	left: 1430.97px;
+	width: 211.74px;
+	height: 101.11px;
+}
+
+
+#halloween {
+	top: 294px;
+	left: 1470px;
+	width: 165.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_5 {
+	top: 385px;
+	left: 277px;
+	width: 1367px;
+	height: 101px;
+	-ms-border-radius: 90px;
+	-o-border-radius: 90px;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+	background:rgba(51,0,255,1);
+}
+
+
+#update {
+	top: 250px;
+	left: 276px;
+	width: 1200px;
+	height: 200px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 80px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_10 {
+	top: 946px;
+	left: 276px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_7 {
+	top: 551px;
+	left: 622px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_26 {
+	top: 551px;
+	left: 276px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_11 {
+	top: 946px;
+	left: 622px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_8 {
+	top: 551px;
+	left: 969px;
+	width: 330px;
+	height: 330px;
+	background:rgb(255, 255, 255);
+}
+
+
+#rectangle_12 {
+	top: 946px;
+	left: 969px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_9 {
+	top: 551px;
+	left: 1314px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_13 {
+	top: 946px;
+	left: 1314px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_14 {
+	top: 1341px;
+	left: 275px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_15 {
+	top: 1341px;
+	left: 621px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_16 {
+	top: 1341px;
+	left: 968px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_17 {
+	top: 1341px;
+	left: 1313px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_18 {
+	top: 1736px;
+	left: 275px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_19 {
+	top: 1736px;
+	left: 621px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_20 {
+	top: 1736px;
+	left: 968px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_21 {
+	top: 1736px;
+	left: 1313px;
+	width: 330px;
+	height: 330px;
+	background:rgba(217,217,217,1);
+}
+
+#navbar {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 200px;
+}
+
+#rectangle_4 {
+	opacity:0.28999999165535;
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 200px;
+	background:rgba(174.2,155.15,228.44,0.29);
+}
+
+
+#telegram_stickers {
+	top: 85px;
+	left: 251px;
+	width: 366px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 41.599998474121px;
+	color:#FFFFFF;
+}
+
+
+#about {
+	top: 85px;
+	left: 1091px;
+	width: 101.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#artists {
+	top: 85px;
+	left: 1211px;
+	width: 105.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#download_stickers {
+	top: 85px;
+	left: 1450px;
+	width: 242.97px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#contact {
+	top: 85px;
+	left: 1331px;
+	width: 121.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
+#telegram_stickers_ek1 {
+	top: 2135px;
+	left: 251px;
+	width: 246px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 2143px;
+	left: 490px;
+	width: 127px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#more_websites {
+	top: 2143px;
+	left: 729px;
+	width: 211px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#contact_ek1 {
+	top: 2142px;
+	left: 970px;
+	width: 127px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#home_page_about_download_stickers_upload_stickers {
+	top: 2223px;
+	left: 490px;
+	width: 267px;
+	height: 342px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#combot_tlgrm_telegramhub_telegramchannels {
+	top: 2223px;
+	left: 730px;
+	width: 267px;
+	height: 342px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#email_github_instagram_osu_profile {
+	top: 2234px;
+	left: 970px;
+	width: 134px;
+	height: 149px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#join_the_newsletter_that_we_probably_won_t_work_on_lol {
+	top: 2135px;
+	left: 1210px;
+	width: 401px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_5 {
+	top: 2252px;
+	left: 1210px;
+	width: 461px;
+	height: 78px;
+	-ms-border-radius: 68px;
+	-o-border-radius: 68px;
+	-moz-border-radius: 68px;
+	-webkit-border-radius: 68px;
+	border-radius: 68px;
+	background:rgba(61.59,60.44,117.94,1);
+}
+
+
+#email_address {
+	top: 2276px;
+	left: 1222px;
+	width: 198px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6 {
+	top: 2253px;
+	left: 1451px;
+	width: 220px;
+	height: 77px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	background:rgba(152.46,150.24,214.62,1);
+}
+
+
+#submit {
+	top: 2276px;
+	left: 1518px;
+	width: 110px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#000000;
+}
+
+
+#anime_boy_png_image_file_1 {
+	top: 1213px;
+	left: 252px;
+	width: 698px;
+	height: 700px;
+}
+
+
+#ellipse_3 {
+	opacity:0.74000000953674;
+	top: 1170px;
+	left: -431px;
+	width: 707px;
+	height: 738px;
+	-ms-border-radius: 353.5px / 369px;
+	-o-border-radius: 353.5px / 369px;
+	-moz-border-radius: 353.5px / 369px;
+	-webkit-border-radius: 353.5px / 369px;
+	border-radius: 353.5px / 369px;
+	background:rgba(29.36,28.05,93.5,0.74);
+}
+
+
+#ellipse_1 {
+	opacity:0.74000000953674;
+	top: 668px;
+	left: 1723px;
+	width: 634px;
+	height: 662px;
+	-ms-border-radius: 317px / 331px;
+	-o-border-radius: 317px / 331px;
+	-moz-border-radius: 317px / 331px;
+	-webkit-border-radius: 317px / 331px;
+	border-radius: 317px / 331px;
+	background:rgba(171,217,217,0.74);
+}
+

@@ -1,0 +1,413 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(28,16,52,1);
+}
+
+
+#rectangle_2 {
+	top: 605px;
+	left: 949px;
+	width: 555px;
+	height: 132px;
+	-ms-border-radius: 90px;
+	-o-border-radius: 90px;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+	background:rgba(31.13,222.33,0,1);
+}
+
+
+#download {
+	top: 643px;
+	left: 1022px;
+	width: 323.5px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 51px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_3 {
+	top: 256px;
+	left: 822px;
+	width: 797px;
+	height: 137px;
+	-ms-border-radius: 90px;
+	-o-border-radius: 90px;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+	background:rgba(3.03,128.09,181.69,1);
+}
+
+
+#rectangle_7 {
+	top: 428px;
+	left: 1345px;
+	width: 159px;
+	height: 147px;
+}
+
+
+#rectangle_8 {
+	top: 428px;
+	left: 1544px;
+	width: 160px;
+	height: 147px;
+}
+
+
+#image_2 {
+	top: 256px;
+	left: 251px;
+	width: 453px;
+	height: 449px;
+}
+
+
+#image_3 {
+	top: 428px;
+	left: 743px;
+	width: 159px;
+	height: 147px;
+}
+
+
+#image_4 {
+	top: 428px;
+	left: 949px;
+	width: 159px;
+	height: 147px;
+}
+
+
+#image_5 {
+	top: 428px;
+	left: 1146px;
+	width: 159px;
+	height: 147px;
+}
+
+
+#image_7 {
+	top: 643px;
+	left: 1321px;
+	width: 52px;
+	height: 56px;
+}
+
+
+#rikka_takanashi {
+	top: 280px;
+	left: 960px;
+	width: 643.5px;
+	height: 142.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 77px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#telegram_stickers {
+	top: 807px;
+	left: 284px;
+	width: 246px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 815px;
+	left: 523px;
+	width: 127px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#more_websites {
+	top: 815px;
+	left: 762px;
+	width: 211px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#contact {
+	top: 814px;
+	left: 1003px;
+	width: 127px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#home_page_about_download_stickers_upload_stickers {
+	top: 895px;
+	left: 523px;
+	width: 267px;
+	height: 342px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#combot_tlgrm_telegramhub_telegramchannels {
+	top: 895px;
+	left: 763px;
+	width: 267px;
+	height: 342px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#email_github_instagram_osu_profile {
+	top: 906px;
+	left: 1003px;
+	width: 134px;
+	height: 149px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 22px;
+	text-align: left;
+	line-height: 28.599998950958px;
+	color:#FFFFFF;
+}
+
+
+#join_the_newsletter_that_we_probably_won_t_work_on_lol {
+	top: 807px;
+	left: 1243px;
+	width: 401px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_5 {
+	top: 924px;
+	left: 1243px;
+	width: 461px;
+	height: 78px;
+	-ms-border-radius: 68px;
+	-o-border-radius: 68px;
+	-moz-border-radius: 68px;
+	-webkit-border-radius: 68px;
+	border-radius: 68px;
+	background:rgba(61.59,60.44,117.94,1);
+}
+
+
+#email_address {
+	top: 948px;
+	left: 1255px;
+	width: 198px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6 {
+	top: 925px;
+	left: 1484px;
+	width: 220px;
+	height: 77px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	background:rgba(152.46,150.24,214.62,1);
+}
+
+
+#submit {
+	top: 948px;
+	left: 1551px;
+	width: 110px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 25.999999046326px;
+	color:#000000;
+}
+
+
+#apple_512_1 {
+	top: 628px;
+	left: 1397px;
+	width: 69px;
+	height: 73px;
+}
+
+
+#rectangle_4 {
+	opacity:0.28999999165535;
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 200px;
+	background:rgba(174.2,155.15,228.44,0.29);
+}
+
+#navbar {
+	top: 85px;
+	left: 250.64px;
+	width: 1411.82px;
+	height: 42.32px;
+}
+
+#telegram_stickers_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 41.599998474121px;
+	color:#FFFFFF;
+}
+
+
+#about {
+	top: 0px;
+	left: 840px;
+	width: 101.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#artists {
+	top: 0px;
+	left: 960px;
+	width: 105.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#download_stickers {
+	top: 0px;
+	left: 1200px;
+	width: 242.97px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+#contact_ek1 {
+	top: 0px;
+	left: 1080px;
+	width: 121.66px;
+	height: 52.66px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 26px;
+	text-align: left;
+	line-height: 33.799998760223px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
